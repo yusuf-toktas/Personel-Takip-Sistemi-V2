@@ -803,13 +803,16 @@ begin
     alter table pozisyonlar add aktif_mi bit default 1;
 end
 
-
+```
 
 </details>
 
 ### 3. Bağlantı Ayarı
+`App.config` dosyasını açın ve `connectionStrings` alanını kendi sunucunuza göre düzenleyin.
 
-`App.config` dosyasını açın ve `connectionStrings` alanını kendi sunucunuza göre düzenleyin:
+<details>
+  <summary><strong>📥 SQL Scriptini Görüntüle (Tıkla ve Genişlet)</strong></summary>
+  
 
 ```xml
 <connectionStrings>

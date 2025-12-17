@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6b6d6dfb356d4992ad61abd96b46f42e" Name="Diagram1" ZoomLevel="27">
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.aile_bireyleri" Width="1.5" PointX="9.75" PointY="11.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.arac_hareketleri" Width="1.5" PointX="12.75" PointY="24.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.araclar" Width="1.5" PointX="10.5" PointY="7" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.avanslar" Width="1.5" PointX="9.75" PointY="18.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.bordrolar" Width="1.5" PointX="9.75" PointY="22.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.demirbaslar" Width="1.5" PointX="9.75" PointY="27.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.departmanlar" Width="1.5" PointX="3" PointY="24.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.disiplin_kayitlari" Width="1.5" PointX="9.75" PointY="30.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.egitimler" Width="1.5" PointX="10.5" PointY="34.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.izin_turleri" Width="1.5" PointX="10.5" PointY="15.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.izinler" Width="1.5" PointX="12.75" PointY="20" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.kariyer_hareketleri" Width="1.5" PointX="9.75" PointY="37.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.kullanicilar" Width="1.5" PointX="9.75" PointY="41.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.pdks_hareketleri" Width="1.5" PointX="9.75" PointY="44.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.personel_egitimleri" Width="1.5" PointX="12.75" PointY="28.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.personel_vardiyalari" Width="1.5" PointX="15.75" PointY="24.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.personeller" Width="1.5" PointX="7.5" PointY="20.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.pozisyonlar" Width="1.5" PointX="5.25" PointY="24.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.sistem_ayarlari" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.sistem_loglari" Width="1.5" PointX="2.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.subeler" Width="1.5" PointX="0.75" PointY="24.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.vardiya_tanimlari" Width="1.5" PointX="13.5" PointY="16.25" IsExpanded="true" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__aile_bire__perso__778AC167" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__arac_hare__arac___2B0A656D" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__arac_hare__perso__2BFE89A6" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__avanslar__person__14270015" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__bordrolar__perso__22751F6C" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__demirbasl__perso__2FCF1A8A" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__departman__sube___5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__personell__depar__71D1E811" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__pozisyonl__depar__6383C8BA" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__disiplin___perso__3864608B" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__personel___egiti__3587F3E0" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__izinler__tur_id__0F624AF8" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__izinler__persone__0E6E26BF" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__kariyer_h__perso__7A672E12" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__kullanici__perso__3E1D39E1" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__pdks_hare__perso__06CD04F7" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__personel___perso__3493CFA7" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__personel___perso__02084FDA" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__personel___vardi__02FC7413" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__personell__pozis__72C60C4A" ManuallyRouted="false" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__personell__sube___70DDC3D8" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.dil_cevirileri" Width="1.5" PointX="3" PointY="4.875" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.dil_tanimlari" Width="1.5" PointX="0.75" PointY="5" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__dil_cevir__dil_k__489AC854" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.maas_bordro" Width="1.5" PointX="9.75" PointY="3" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__maas_bord__perso__51300E55" />
+        <EntityTypeShape EntityType="PersonelTakipSistemiDBModel.mesailer" Width="1.5" PointX="9.75" PointY="48.125" />
+        <AssociationConnector Association="PersonelTakipSistemiDBModel.FK__mesailer__person__55F4C372" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

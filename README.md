@@ -7,7 +7,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/YusufToktas">
+    <a href="https://github.com/yusuf-toktas">
       <img src="https://img.shields.io/badge/Geliştirici-Yusuf%20Toktaş-blue?style=for-the-badge&logo=github" alt="Yusuf Toktaş" />
     </a>
     <a href="https://linkedin.com/in/yusuftoktas">

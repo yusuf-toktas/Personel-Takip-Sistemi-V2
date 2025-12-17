@@ -26,9 +26,9 @@
 
   <br />
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3R6cW51Z3R6cW51Z3R6cW51ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVThqceulBM7Fq/giphy.gif" width="600" alt="Project Demo GIF" />
+  <img src="docs/uygulama_resim.gif" width="600" alt="Project GIF" />
   
-  <p><em>(Programın çalışırken önizlemesi - Buraya kendi GIF'ini koyabilirsin)</em></p>
+  <p><em>(Programın çalışırken önizlemesi)</em></p>
 
 </div>
 

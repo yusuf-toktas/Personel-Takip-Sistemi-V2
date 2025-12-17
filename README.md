@@ -805,8 +805,6 @@ end
 
 ```
 
-</details>
-
 ### 3. Bağlantı Ayarı
 `App.config` dosyasını açın ve `connectionStrings` alanını kendi sunucunuza göre düzenleyin.
 

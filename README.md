@@ -72,11 +72,9 @@ Sadece veri kaydetmekle kalmaz; personelin zimmetinden ek mesaisine, izin durumu
 
 | 👥 Personel Listesi | 📑 Raporlama Ekranı |
 | :---: | :---: |
-| <img src="docs/personel.png" width="400" alt="Personel Listesi" /> | <img src="docs/rapor.png" width="400" alt="Raporlama" /> |
+| <img src="docs/employee.png" width="400" alt="Personel Listesi" /> | <img src="docs/raporting.png" width="400" alt="Raporlama" /> |
 
 </div>
-
-> *Not: Ekran görüntüleri temsilidir. Projeyi çalıştırıp kendi görüntülerinizi ekleyebilirsiniz.*
 
 ---
 

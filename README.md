@@ -863,8 +863,8 @@ Personel-Takip-Sistemi/
 
 ## 👨‍💻 Geliştirici
 
-<a href="https://github.com/YusufToktas">
-  <img src="https://github.com/YusufToktas.png" width="100px" style="border-radius: 50%;" alt="Yusuf Toktaş"/>
+<a href="https://github.com/yusuf-toktas">
+  <img src="https://github.com/yusuf-toktas.png" width="100px" style="border-radius: 50%;" alt="Yusuf Toktaş"/>
   <br />
   <sub><b>Yusuf Toktaş</b></sub>
 </a>

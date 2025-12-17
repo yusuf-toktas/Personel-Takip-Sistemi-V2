@@ -811,7 +811,7 @@ end
 `App.config` dosyasını açın ve `connectionStrings` alanını kendi sunucunuza göre düzenleyin.
 
 <details>
-  <summary><strong>📥 SQL Scriptini Görüntüle (Tıkla ve Genişlet)</strong></summary>
+  <summary><strong>📥 Scripti Görüntüle (Tıkla ve Genişlet)</strong></summary>
   
 
 ```xml
@@ -822,6 +822,8 @@ end
 </connectionStrings>
 
 ```
+
+---
 
 ---
 

@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
   <h1>🏢 Personel Takip Sistemi (Enterprise Edition)</h1>
@@ -108,7 +107,7 @@ Aşağıdaki SQL kodunu SSMS (SQL Server Management Studio) üzerinde çalışt�
   -- Kullanıcı Adı: admin
   -- Şifre: 1234
 
-```
+
 
 </details>
 
@@ -168,5 +167,5 @@ Personel-Takip-Sistemi/
 <sub><b>Yusuf Toktaş</b></sub>
 </a>
 
-* 💻 **GitHub:** [@YusufToktas](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/yusuf-toktas)
+* 💻 **GitHub:** [@yusuf-toktas](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/yusuf-toktas)
 * 🔗 **LinkedIn:** [Profilim](https://www.google.com/url?sa=E&source=gmail&q=https://linkedin.com/in/yusuftoktas)

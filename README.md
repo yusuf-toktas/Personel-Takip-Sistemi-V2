@@ -869,5 +869,7 @@ Personel-Takip-Sistemi/
   <sub><b>Yusuf Toktaş</b></sub>
 </a>
 
+
+
 * 💻 **GitHub:** [@yusuf-toktas](https://www.google.com/url?sa=E&source=gmail&q=https://github.com/yusuf-toktas)
 * 🔗 **LinkedIn:** [Profilim](https://www.google.com/url?sa=E&source=gmail&q=https://linkedin.com/in/yusuftoktas)
